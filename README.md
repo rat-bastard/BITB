@@ -41,7 +41,7 @@ One way of detecting BITB is by attempting to drag the window to the edge of the
 
 All credits go to @odacavo.
 
-## Original Research
+# Original Research
 
 This attack was already discussed by Franco Tommasi, Christian Catalano, and Ivan Taurino in an article published on 17 April 2021, available at [Springer](https://link.springer.com/article/10.1007/s10207-021-00548-5).
 
